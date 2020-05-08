@@ -28,7 +28,7 @@ To install Pytorch head over to ```https://pytorch.org/``` or install using mini
 Clone this repository :
 
 ```
-git clone https://www.github.com/kdexd/ntm-pytorch
+git clone https://github.com/Leomingyangli/ntm-reverse.git
 ```
 
 The other python libraries that you'll need to run the code :
